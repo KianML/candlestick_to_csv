@@ -12,6 +12,6 @@ Obviously, the numerical results of the code is not 100% accurate. The deviation
 
 Any customization is available based on different requirement. For example modifying the code to read and include the volumes, or populating the database with the results.
 
-Kian.
-
 Copy this into your command line to install: "pip install git+https://github.com/KianML/candlestick_to_csv#egg=candlestick_to_csv"
+
+Kian.
