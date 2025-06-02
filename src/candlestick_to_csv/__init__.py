@@ -1,3 +1,5 @@
+__version__ = '1.1'
+
 # -*- coding: utf-8 -*-
 """
 Created on Sat Apr 10 13:34:34 2021
