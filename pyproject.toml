@@ -1,0 +1,19 @@
+[project]
+name = "candlestick_to_csv"
+version = "1.0"
+authors = [
+  { name="Kianoosh Keshavarzian", email="kshvzn@gmail.com" },
+]
+description = "This packaging converts stock market candlestick charts to CSV"
+readme = "README.md"
+requires-python = ">=3.0"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+
+[project.urls]
+Homepage = "https://github.com/KianML/candlestick_to_csv"
+Issues = "https://github.com/pypa/sampleproject/issues"
