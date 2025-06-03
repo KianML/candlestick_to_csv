@@ -7,9 +7,9 @@ Created on Sat Apr 10 13:34:34 2021
 @author: Kianoosh Keshavarzian
 """
 
+import matplotlib.image as img
 from PIL import Image
 import datetime
-import matplotlib.image as img
 import numpy as np
 import pandas as pd
 from collections import Counter
